@@ -9,12 +9,9 @@ import javax.swing.*;
  * Main class for the homework assignment Random Animator.
  * 
  *  
- * TODO:
+ * TODO: Add implementation of saving a loading settings
  *
- * @author NAME
- * @id ID
- * @author NAME
- * @id ID
+ * @author Maxim Selveliev
  */
 public class FractalGenerator {
     public static JFrame frame;
@@ -126,7 +123,7 @@ public class FractalGenerator {
                 settingsM.add(regenerateButton2);
                 
                 settingsP.setLayout(new GridLayout(9,0));
-                settingsP.add(new JLabel("Max iterations (slow at 20+):"));
+                settingsP.add(new JLabel("Max iterations:"));
                 settingsP.add(maxIter);
                 settingsP.add(new JLabel("Initial side length:"));
                 settingsP.add(sideLength);
