@@ -10,8 +10,13 @@
 #### - Recoloring of the background and tree elements, with implemented transparency for overlapping elements
 #### - Saving the settings for all fractals (TBI)
 ### Underneath you may find highlights of these functioanalities:
+
 ![alt text](https://github.com/l-fungus-l/highlight-pics/blob/main/fractal/mandelbrot1.png)
+
 ![alt text](https://github.com/l-fungus-l/highlight-pics/blob/main/fractal/mandelbrot2.png)
+
 ![alt text](https://github.com/l-fungus-l/highlight-pics/blob/main/fractal/mandelbrot3.png)
+
 ![alt text](https://github.com/l-fungus-l/highlight-pics/blob/main/fractal/phoenix1.png)
+
 ![alt text](https://github.com/l-fungus-l/highlight-pics/blob/main/fractal/pythagoras1.png)
