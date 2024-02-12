@@ -15,7 +15,7 @@
 
 ![alt text](https://github.com/l-fungus-l/highlight-pics/blob/main/fractal/mandelbrot2.png)
 
-![alt text](https://github.com/l-fungus-l/highlight-pics/tree/main/fractal/mandelbrot3.png)
+![alt text](https://github.com/l-fungus-l/highlight-pics/blob/main/fractal/mandlebrot3.png)
 
 ![alt text](https://github.com/l-fungus-l/highlight-pics/blob/main/fractal/phoenix1.png)
 
