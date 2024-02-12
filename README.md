@@ -3,7 +3,7 @@
 #### - Mandelbrot set
 #### - Phoenix set
 #### - Pythagoras tree
-### This project utilizes OOP concepts as well as mathematical methods for the different fractals and allows for customization as well as advanced exploration of the fractals. Alongside the three different fractals, available in the Fractals menu bar, the following settings are also available:
+#### This project utilizes OOP concepts as well as mathematical methods for the different fractals and allows for customization as well as advanced exploration of the fractals. Alongside the three different fractals, available in the Fractals menu bar, the following settings are also available:
 #### - Zoom into set fractals with mouse clicks
 #### - Resizing and changing angles of the tree
 #### - Recoloring of set elements and surrounding colors
